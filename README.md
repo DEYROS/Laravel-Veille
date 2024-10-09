@@ -54,9 +54,9 @@ Je l'ai déjà utilisé sur de nombreux projets personnels et professionnels.
 
 ### 🌐 Sites Web
 
-#### 6. **Site officiel de Laravel**
-   - **🔗 Lien** : [https://laravel.com](https://laravel.com)
-   - **💡 Justification** : La documentation officielle est une ressource incontournable pour comprendre les nouvelles fonctionnalités de Laravel, apprendre les meilleures pratiques et se tenir à jour.
+#### 6. **Sites sur les nouveautés (Newsletter)**
+   - **🔗 Liens** : [https://laravel.com](https://laraveldaily.com/) | [https://laravel-news.com/](https://laravel-news.com/)
+   - **💡 Justification** : Ces sites sont des ressources essentielles pour découvrir les nouvelles fonctionnalités, les meilleures pratiques et rester informé des dernières tendances dans l'écosystème Laravel grâce aux newsletter.
 
 #### 7. **GitHub Laravel**
    - **🔗 Lien** : [https://github.com/laravel/laravel](https://github.com/laravel/laravel)
