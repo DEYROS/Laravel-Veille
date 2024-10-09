@@ -36,3 +36,30 @@ La veille technologique consiste à se tenir informé des évolutions et nouveau
      - [Traversy Media](https://www.youtube.com/c/TraversyMedia) - Chaîne de développement web avec des tutoriels Laravel.
      - [Coder's Tape](https://www.youtube.com/c/CodersTape) - Tutoriels approfondis sur Laravel.
      - [Laravel Jutsu](https://www.youtube.com/@LaravelJutsu/videos) - Tutoriels en français, une chaîne qui m'a aidé à progresser au début.
+
+### Communautés
+
+#### 4. **Discord**
+   - **Lien** : [Laravel Discord](https://discord.gg/mPZNm7A)
+   - **Justification** : Le serveur Discord officiel de Laravel permet de discuter directement avec d'autres développeurs. Il est également utile pour être notifié des mises à jour majeures et pour demander ou apporter de l'aide.
+
+### Google Alertes
+
+#### 5. **Google Alertes**
+   - **Lien** : [https://www.google.com/alerts](https://www.google.com/alerts)
+   - **Justification** : Google Alertes permet de recevoir des notifications sur les nouveautés concernant Laravel, comme les nouvelles versions ou les événements.
+   - **Exemple d'alerte** : "Laravel 11 release", "Nouveautés Laravel", "Laravel Tutorial".
+
+### Sites Web
+
+#### 6. **Site officiel de Laravel**
+   - **Lien** : [https://laravel.com](https://laravel.com)
+   - **Justification** : La documentation officielle de Laravel est la source principale pour se tenir à jour sur les fonctionnalités et les bonnes pratiques.
+
+#### 7. **GitHub Laravel**
+   - **Lien** : [https://github.com/laravel/laravel](https://github.com/laravel/laravel)
+   - **Justification** : Le dépôt GitHub de Laravel permet de suivre les évolutions du framework, les pull requests et les contributions de la communauté.
+
+#### 8. **Laravel News**
+   - **Lien** : [https://laravel-news.com](https://laravel-news.com)
+   - **Justification** : Ce site propose des articles, des tutoriels et des nouveautés sur l'écosystème Laravel.
