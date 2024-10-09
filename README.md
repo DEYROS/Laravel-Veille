@@ -67,6 +67,23 @@ Je l'ai déjà utilisé sur de nombreux projets personnels et professionnels.
    - **🔗 Lien** : [https://laravel-news.com](https://laravel-news.com)
    - **💡 Justification** : Laravel News regroupe des articles, tutoriels et annonces sur les événements et les nouveautés autour de Laravel. C'est un excellent moyen de se tenir informé des tendances actuelles.
 
+### 📖 Documentation
+
+#### 9. **Documentation de Laravel**
+   - **🔗 Lien** : [https://laravel.com/docs](https://laravel.com/docs)
+   - **💡 Justification** : La documentation officielle de Laravel est complète et régulièrement mise à jour avec chaque version. Elle est essentielle pour comprendre et se tenir à jour sur les fonctionnalités offertes par le framework !
+
+### 🔊 Podcasts
+
+#### 10. **PHP Internals News**
+   - **🔗 Lien** : [https://phpinternals.news](https://phpinternals.news)
+   - **💡 Justification** : Bien que centré sur PHP, ce podcast aborde souvent des sujets pertinents pour les utilisateurs de Laravel, notamment sur les évolutions du langage.
+
+#### 11. **Laravel Podcast**
+   - **🔗 Lien** : [https://laravelpodcast.com](https://laravelpodcast.com)
+   - **💡 Justification** : Ce podcast se concentre spécifiquement sur Laravel, avec des discussions sur les nouvelles fonctionnalités, les meilleures pratiques et les histoires de développeurs.
+
+
 ## 🔚 Conclusion
 
 Grâce à cette veille technologique, je vais pouvoir rester informé des dernières évolutions de Laravel. 
