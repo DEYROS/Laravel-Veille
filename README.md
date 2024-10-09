@@ -56,30 +56,26 @@ Je l'ai déjà utilisé sur de nombreux projets personnels et professionnels.
 
 #### 6. **Sites sur les nouveautés (Newsletter)**
    - **🔗 Liens** : [https://laraveldaily.com/](https://laraveldaily.com/) | [https://laravel-news.com/](https://laravel-news.com/)
-   - **💡 Justification** : Ces sites sont des ressources essentielles pour découvrir les nouvelles fonctionnalités, les meilleures pratiques et rester informé des dernières tendances dans l'écosystème Laravel grâce aux newsletter.
+   - **💡 Justification** : Ces sites sont des ressources essentielles pour découvrir les nouvelles fonctionnalités, les meilleures pratiques et rester informé des dernières tendances dans l'écosystème grâce aux newsletter, articles, tutoriels et annonces sur les événements et les nouveautés autour de Laravel.
 
 #### 7. **GitHub Laravel**
    - **🔗 Lien** : [https://github.com/laravel/laravel](https://github.com/laravel/laravel)
    - **💡 Justification** : GitHub me permet de suivre non seulement le développement de Laravel, mais aussi de parcourir d'autres projets publics basés sur Laravel. 
                              Cela me permet de découvrir de nouvelles techniques et de m'inspirer des pratiques de développement utilisées par d'autres développeurs.
 
-#### 8. **Laravel News**
-   - **🔗 Lien** : [https://laravel-news.com](https://laravel-news.com)
-   - **💡 Justification** : Laravel News regroupe des articles, tutoriels et annonces sur les événements et les nouveautés autour de Laravel. C'est un excellent moyen de se tenir informé des tendances actuelles.
-
 ### 📖 Documentation
 
-#### 9. **Documentation de Laravel**
+#### 8. **Documentation de Laravel**
    - **🔗 Lien** : [https://laravel.com/docs](https://laravel.com/docs)
    - **💡 Justification** : La documentation officielle de Laravel est complète et régulièrement mise à jour avec chaque version. Elle est essentielle pour comprendre et se tenir à jour sur les fonctionnalités offertes par le framework !
 
 ### 🔊 Podcasts
 
-#### 10. **PHP Internals News**
+#### 9. **PHP Internals News**
    - **🔗 Lien** : [https://phpinternals.news](https://phpinternals.news)
    - **💡 Justification** : Bien que centré sur PHP, ce podcast aborde souvent des sujets pertinents pour les utilisateurs de Laravel, notamment sur les évolutions du langage.
 
-#### 11. **Laravel Podcast**
+#### 10. **Laravel Podcast**
    - **🔗 Lien** : [https://laravelpodcast.com](https://laravelpodcast.com)
    - **💡 Justification** : Ce podcast se concentre spécifiquement sur Laravel, avec des discussions sur les nouvelles fonctionnalités, les meilleures pratiques et les histoires de développeurs.
 
