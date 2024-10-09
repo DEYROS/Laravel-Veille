@@ -55,7 +55,7 @@ Je l'ai déjà utilisé sur de nombreux projets personnels et professionnels.
 ### 🌐 Sites Web
 
 #### 6. **Sites sur les nouveautés (Newsletter)**
-   - **🔗 Liens** : [https://laravel.com](https://laraveldaily.com/) | [https://laravel-news.com/](https://laravel-news.com/)
+   - **🔗 Liens** : [https://laraveldaily.com/](https://laraveldaily.com/) | [https://laravel-news.com/](https://laravel-news.com/)
    - **💡 Justification** : Ces sites sont des ressources essentielles pour découvrir les nouvelles fonctionnalités, les meilleures pratiques et rester informé des dernières tendances dans l'écosystème Laravel grâce aux newsletter.
 
 #### 7. **GitHub Laravel**
