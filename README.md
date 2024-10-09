@@ -23,13 +23,20 @@ Je l'ai déjà utilisé sur de nombreux projets personnels et professionnels.
 
 #### 2. **Twitter (maintenant X)**
    - **🔗 Lien** : [https://x.com/](https://x.com/)
-   - **💡 Justification** : X est idéal pour suivre les développeurs clés de l'écosystème Laravel et les tendances récentes dans le domaine.
+   - **💡 Justification** : X est idéal pour suivre les développeurs clés de l'écosystème Laravel et les tendances récentes dans le domaine. Les interactions directes et les partages de ressources en font une plateforme dynamique pour les développeurs.
    - **👥 Comptes à suivre** :
-     - [Taylor Otwell](https://twitter.com/taylorotwell) - Créateur de Laravel.
-     - [Laravel News](https://twitter.com/laravelnews) - Compte officiel des nouvelles de Laravel.
-     - [Laracasts](https://twitter.com/laracasts) - Tutoriels vidéo sur Laravel.
-     - [Eloquent](https://x.com/LaravelEloquent) - Pratique pour utiliser les bonnes pratiques !
-
+     - [Taylor Otwell](https://twitter.com/taylorotwell) - Créateur de Laravel et voix influente dans la communauté.
+     - [Laravel News](https://twitter.com/laravelnews) - Compte officiel des nouvelles de Laravel, partageant des mises à jour et des articles.
+     - [Laracasts](https://twitter.com/laracasts) - Tutoriels vidéo sur Laravel, couvrant divers sujets allant des bases aux concepts avancés.
+     - [Eloquent](https://x.com/LaravelEloquent) - Pratique pour utiliser les bonnes pratiques ! 
+     - [Beyond Code](https://twitter.com/beyondcode) - Agence spécialisée dans le développement Laravel, partageant des ressources et des événements.
+     - [Laravel Daily](https://twitter.com/laraveldaily) - Actualités et conseils quotidiens sur Laravel, idéal pour se tenir à jour.
+     - [Marcel Pociot](https://x.com/marcelpociot) - Développeur d'outils comme Laravel Herd.
+   - **🔍 Hashtags à suivre** :
+     - `#Laravel` - Pour suivre les conversations et les nouveautés liées à Laravel.
+     - `#LaravelReverb` - Un hashtag pour les websockets sur Laravel !
+    
+       
 #### 3. **YouTube**
    - **🔗 Lien** : [https://www.youtube.com](https://www.youtube.com)
    - **💡 Justification** : YouTube offre de nombreuses ressources vidéo telles que des tutoriels, conférences et webinaires sur Laravel.
@@ -38,6 +45,8 @@ Je l'ai déjà utilisé sur de nombreux projets personnels et professionnels.
      - [Traversy Media](https://www.youtube.com/c/TraversyMedia) - Chaîne dédiée au développement web avec des tutoriels sur Laravel.
      - [Coder's Tape](https://www.youtube.com/c/CodersTape) - Tutoriels plus approfondis sur Laravel.
      - [Laravel Jutsu](https://www.youtube.com/@LaravelJutsu/videos) - Tutoriels en français, une chaîne qui m'a aidé à progresser au début.
+     - [Laravel Daily](https://www.youtube.com/@LaravelDaily/videos) - Tutoriels et astuces.
+     - [The Codeholic](https://www.youtube.com/@TheCodeholic/videos) - Tutoriels mais pas à 100% sur Laravel donc contenu à trier.
 
 ### 💬 Communautés
 
