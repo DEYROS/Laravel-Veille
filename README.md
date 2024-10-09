@@ -63,3 +63,8 @@ La veille technologique consiste à se tenir informé des évolutions et nouveau
 #### 8. **Laravel News**
    - **Lien** : [https://laravel-news.com](https://laravel-news.com)
    - **Justification** : Ce site propose des articles, des tutoriels et des nouveautés sur l'écosystème Laravel.
+
+## Conclusion
+
+Grâce à cette veille technologique, je vais pouvoir rester informé des dernières évolutions de Laravel. 
+En utilisant des outils comme Feedly, X, YouTube et en rejoignant les bonnes communautés, je peux accéder facilement à un flux constant d'informations sur ce framework et ses bonnes pratiques.
